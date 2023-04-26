@@ -4,3 +4,5 @@ ENV   MYSQL_ROOT_PASSWORD=redhat
 ENV   MYSQL_DATABASE=wordpress
 ENV   MYSQL_USER=wordpress
 ENV   MYSQL_PASSWORD=redhat
+
+ENV TEST=hello
